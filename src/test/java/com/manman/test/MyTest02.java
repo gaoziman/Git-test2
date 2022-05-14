@@ -19,5 +19,6 @@ public class MyTest02 {
         agent1.buy();
         System.out.println("hello git");
         System.out.println("git !!!!");
+        System.out.println("git hhhh !!!!");
     }
 }
